@@ -1,1 +1,1 @@
-(()=>{"use strict";console.log("Hello, world!"),console.log("my")})();
+(()=>{"use strict";console.log("Hello, world!"),console.log({a:1,b:2,c:3}),console.log("my")})();
